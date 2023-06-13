@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Starter app for Create a web UI with ASP.NET Core
 
 Welcome! This is the starter app for the [Create a web UI with ASP.NET Core](https://learn.microsoft.com/training/modules/create-razor-pages-aspnet-core/) Microsoft Training module.
@@ -36,3 +37,6 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+=======
+# ContosoPizzaWebsite
+>>>>>>> 94e80d44b8c02cb7e1571bcde35eb2ce26425a66
